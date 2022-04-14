@@ -1,0 +1,64 @@
+body {
+  background-color: darkkhaki;
+  margin: 0;
+}
+
+.header {
+  top: 0;
+  padding: 60px;
+  text-align: center;
+  font-size: 100px;
+  color: white;
+}
+
+table,
+th {
+  border: 1px solid rgb(150, 145, 85);
+  border-collapse: collapse;
+  width: 60px;
+  height: auto;
+}
+th {
+  background-color: rgb(150, 145, 85);
+  height: 70px;
+  font-size: 35px;
+}
+td {
+  width: 60px;
+  height: auto;
+  font-size: 30px;
+  text-align: left;
+}
+table {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  font-size: xx-large;
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+img {
+  height: 100px;
+  max-width: 100%;
+  padding: 10px;
+}
+
+div {
+  padding: 10px;
+}
+
+input,
+button {
+  font-size: medium;
+  padding: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  box-sizing: border-box;
+  width: 80%;
+}
